@@ -107,5 +107,13 @@ body{
     font-size: 0.8em;
 }
 
+.credits {
+    color: lightgrey;
+    font-size: small;
+    opacity: 15%;
+    /*float: right;*/
+    text-align: center;
+}
+
 
 
